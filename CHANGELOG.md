@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v1.0.0...v2.0.0) (2023-07-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* start configurations
+
+* start Configurations styles, build, sonar etc ([f216282](https://github.com/FabianaTavares/project-login-register-bs5/commit/f216282f15f6daf2a9b788376d0b52def227bcb7))
+
 ## 1.0.0 (2023-07-19)
 
 ### [2.6.4](https://github.com/FabianaTavares/project-art-bs5/compare/v2.6.3...v2.6.4) (2023-07-18)
