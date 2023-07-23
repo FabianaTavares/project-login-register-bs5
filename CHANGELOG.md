@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v3.2.0...v3.3.0) (2023-07-23)
+
+
+### Funcionalidades
+
+* teste firebase ([a4b1e1f](https://github.com/FabianaTavares/project-login-register-bs5/commit/a4b1e1f0b5b644ed6b5b690e6acdce8247dbb79a))
+
 ## [3.2.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v3.1.0...v3.2.0) (2023-07-23)
 
 
