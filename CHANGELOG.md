@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v3.0.0...v3.1.0) (2023-07-23)
+
+
+### Funcionalidades
+
+* ajustando build sonar e github ([1b9ba5d](https://github.com/FabianaTavares/project-login-register-bs5/commit/1b9ba5d673c01b2c202cef23df7d95881c27b5bf))
+
 ## [3.0.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v2.1.0...v3.0.0) (2023-07-23)
 
 
