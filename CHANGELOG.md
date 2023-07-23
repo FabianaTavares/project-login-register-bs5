@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v3.5.0...v4.0.0) (2023-07-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* radme change log
+
+### Funcionalidades
+
+* readme correct changelog badge ([41d950f](https://github.com/FabianaTavares/project-login-register-bs5/commit/41d950f9be1380fbcae566cbd4897b8d08b8a63d))
+
 ## [3.5.0](https://github.com/FabianaTavares/project-login-register-bs5/compare/v3.4.0...v3.5.0) (2023-07-23)
 
 
