@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "projetos-estaticos-fabi",
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
+
